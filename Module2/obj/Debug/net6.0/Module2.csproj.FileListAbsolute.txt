@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\C#\Programing2.2\Module2\bin\Debug\net6.0\Module2.exe
+C:\Users\User\source\repos\C#\Programing2.2\Module2\bin\Debug\net6.0\Module2.deps.json
+C:\Users\User\source\repos\C#\Programing2.2\Module2\bin\Debug\net6.0\Module2.runtimeconfig.json
+C:\Users\User\source\repos\C#\Programing2.2\Module2\bin\Debug\net6.0\Module2.dll
+C:\Users\User\source\repos\C#\Programing2.2\Module2\bin\Debug\net6.0\Module2.pdb
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.AssemblyInfo.cs
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.dll
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\refint\Module2.dll
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.pdb
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\Module2.genruntimeconfig.cache
+C:\Users\User\source\repos\C#\Programing2.2\Module2\obj\Debug\net6.0\ref\Module2.dll
