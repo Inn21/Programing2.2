@@ -14,8 +14,11 @@ class Program
 {
     static void Main()
     {
-        XDocument xmlDoc = XDocument.Load("C:\\Users\\User\\source\\repos\\C#\\Programing2.2\\Module3\\employees.xml");
+        
+        //XDocument xmlDoc = XDocument.Load("C:\\Users\\User\\source\\repos\\C#\\Programing2.2\\Module3\\employees.xml");
+        XDocument xmlDoc = XDocument.Load("employees.xml");
 
+        //---Реалізація через використання методів---
         //---Реалізація через використання методів---
 
         /*
